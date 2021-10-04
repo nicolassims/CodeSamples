@@ -1,4 +1,6 @@
 '''
+A script written for an unfinished project. Runs a "dungeon crawling" system where players can move around on a map, interact with nodes, and be blocked by walls. Uses a system whereby it can be fed text files and create maps of them.
+
 @func Crawl(int[][], int, int, int[][]) -> None: A function that takes in a 
     completed map of an area, a starting x and y location, and a map of what the
     player knows the area to be
