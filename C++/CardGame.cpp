@@ -89,9 +89,7 @@ public:
     }
 };
 
-string dealCount(Deck deck, vector<Player> players) {
-    //todo here--throw exception if there's more than ten players
-    
+string dealCount(Deck deck, vector<Player> players) {    
     if (players.size() < 11) {
         string bestName = "Larry";
         int bestScore = 0;
