@@ -6,6 +6,9 @@
 **C#: An object-oriented programming language. C# is based on C++ and contains features similar to those of Java.**  
 >Laser.cs: A script similar to the one I wrote when under the employ of [Biogen](https://www.biogen.com/). Contains a class that allows a laser pointer to be used in a virtual reality space.
 
+**C++: A general-purpose programming language. An extension of the C programming language, or "C with Classes".**  
+>CardGame.cpp: A couple of classes defining a player, a card, and a deck, that could be used in card-game-like programs.
+
 **GML: An imperative, dynamically typed language commonly likened to JavaScript and C-like languages.**  
 >BattleStep.gml: A script written for [Antiem](https://freudiancreations.website/projects/antiem). Is the "step" event for an object, executing every frame. This object runs a turn-based battle system.
 
