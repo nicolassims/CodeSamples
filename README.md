@@ -5,6 +5,7 @@
 
 **C#: An object-oriented programming language. C# is based on C++ and contains features similar to those of Java.**  
 >Laser.cs: A script similar to the one I wrote when under the employ of [Biogen](https://www.biogen.com/). Contains a class that allows a laser pointer to be used in a virtual reality space.
+>TennisApp.cs: A class that contains a function that, upon given a set of scores in a tennis game, will output a score declaring the state of the game from among ~9 options.
 
 **C++: A general-purpose programming language. An extension of the C programming language, or "C with Classes".**  
 >CardGame.cpp: A couple of classes defining a player, a card, and a deck, that could be used in card-game-like programs.
